@@ -13,3 +13,4 @@ You can also run this project clicking on the live link deployed here.
 * Javascript
 
 ## Sample outputs
+![image](https://github.com/Floride125-art/sdeweatherapp/assets/71024941/861b1f0a-6294-4c9f-af7a-b96a02171e7e)
