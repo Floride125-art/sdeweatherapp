@@ -12,3 +12,4 @@ You can also run this project clicking on the live link deployed here.
 * CSS
 * Javascript
 
+## Sample outputs
