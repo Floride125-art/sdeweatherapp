@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine:wght@200;400;600&display=swap");
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    background-color: linear-gradiet(300deg, #757b87, #909d9d);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+input {
+    padding:16px;
+    border-radius: 25px;
+    border: none;
+    background-color: #0a031d;
+    font-family: Poppins;
+    box-shadow: 0 4px 10px rgba(122, 172, 192, 0.2);
+    min-width: 80%;
+    font-size: 16px;
+    color: white;
+}
+button{
+    padding:10px;
+    font-size: px;
+    font-size: 36px;
+    border-radius: 25px;
+    background-color: #189ba0;
+    font-family: inherit;
+    box-shadow: 0 4px 10px rgba(122, 172, 192, 0.2);
+    min-width: 40%;
+    font-size: 16px;
+    color: white;
+
+}
+#form{
+    display: flex;
+}
